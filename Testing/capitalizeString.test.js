@@ -2,5 +2,5 @@ const capitalizeString = require("../Functions/capitalizeString.js");
 
 
 test('capitalizeString', () => {
-  expect(capitalizeString('jawad')).toBe('Jawad');
+  expect(capitalizeString('hagan')).toBe('hagan');
 });
